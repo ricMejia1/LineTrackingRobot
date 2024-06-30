@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d//Mac/Home/Documents/ESET219Lab/Final Project/project_state_machine/simulation/qsim
+vhard_block
+Z1 !s110 1682023492
+!i10b 1
+!s100 Z9zE>n`ldGm5d`b]Z39To3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Il^aA]6jG6?o<JeOIc@d7V3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1682023491
+Z5 8statemachine.vo
+Z6 Fstatemachine.vo
+!i122 30
+L0 943 45
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1682023492.000000
+Z9 !s107 statemachine.vo|
+Z10 !s90 -work|work|statemachine.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vstatemachine_block
+R1
+!i10b 1
+!s100 RhYTd0[VY3C]n;?^64LgP3
+R2
+InU9RnbG1oHf6nfYU_5=@`3
+R3
+R0
+R4
+R5
+R6
+!i122 30
+L0 32 910
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vstatemachine_block_vlg_vec_tst
+R1
+!i10b 1
+!s100 I1Q`1^:N8fP9DmbQRlLN30
+R2
+I@T4;nbLJb3VIX<:51b0mI1
+R3
+R0
+w1682023489
+8Waveform1.vwf.vt
+FWaveform1.vwf.vt
+!i122 31
+L0 30 101
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform1.vwf.vt|
+!s90 -work|work|Waveform1.vwf.vt|
+!i113 1
+R11
+R12
