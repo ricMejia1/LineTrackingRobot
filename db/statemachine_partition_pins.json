@@ -1,0 +1,45 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "LMPWM",
+					"strict" : false
+				},
+				{
+					"name" : "RMPWM",
+					"strict" : false
+				},
+				{
+					"name" : "RCOOut",
+					"strict" : false
+				},
+				{
+					"name" : "L",
+					"strict" : false
+				},
+				{
+					"name" : "M",
+					"strict" : false
+				},
+				{
+					"name" : "R",
+					"strict" : false
+				},
+				{
+					"name" : "CLR",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "TCLK",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
